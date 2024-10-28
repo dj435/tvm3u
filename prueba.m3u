@@ -7,6 +7,10 @@ https://panel.host-live.com/tvrionegro/ngrp:tvrionegro_all/chunklist_w312168167_
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELEMAX" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/telemax.jpg" group-title="tv free",TELEMAX
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8#t=0.1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="tv free",CRONICA TV PLAYLIST
+https://g3.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="tv free",CRONICA TV NO PLAYLIST
+https://g3.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TELESUR" tvg-logo="https://dj435.github.io/tv/logos/telesur.jpg" group-title="tv free",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="DW" tvg-logo="https://dj435.github.io/tv/logos/dw.jpg" group-title="tv free",DW
