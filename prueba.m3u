@@ -6,10 +6,10 @@ https://panel.host-live.com/tvrionegro/ngrp:tvrionegro_all/chunklist_w312168167_
 #EXTINF:-1 tvg-id="ext" tvg-name="GARAGE TV" tvg-logo="https://dj435.github.io/tv/logos/garagetv.jpg" group-title="tv free",GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELEMAX" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/telemax.jpg" group-title="tv free",TELEMAX
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8#t=0.1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="tv free",CRONICA TV PLAYLIST
-https://g3.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="tv free",CRONICA TV NO PLAYLIST
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LATINA TV" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/latina.jpg" group-title="tv free",LATINA TV
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/cronica.jpg" group-title="tv free",CRONICA TV
 https://g3.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TELESUR" tvg-logo="https://dj435.github.io/tv/logos/telesur.jpg" group-title="tv free",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
@@ -41,8 +41,6 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PANC TV" tvg-logo="https://panctv.com.ar/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png" group-title="tv free",PANC TV
 https://panel.host-live.com:19360/81500/81500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LATINA TV" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/latina.jpg" group-title="tv free",LATINA TV
-https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8#t=0.1
 #EXTINF:-1 tvg-id="ext" tvg-name="CINEMA+" tvg-logo="https://dj435.github.io/tv/logos/cinemamas.jpg" group-title="tv free",CINEMA+
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COSMOS TV" tvg-logo="https://dj435.github.io/tv/logos/cosmostv.jpg" group-title="tv free",COSMOS TV
@@ -53,51 +51,3 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MIAMI TV 2" tvg-logo="https://miamitv.com/images/669a96975172d_Miami%20TV%20Fashion.jpg" group-title="tv free",MIAMI TV 2
 https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="EXXXOTICA" tvg-logo="https://i.ibb.co/zr7DCKM/exotica.jpg" group-title="tv free",EXXXOTICA
-http://31.148.48.15:80/O-la-la/index.m3u8?token=test
-#EXTINF:-1 tvg-id="ext" tvg-name="Playboy HD" tvg-logo="https://i.ibb.co/Cm6PKYW/playboy.jpg" group-title="tv free",Playboy HD
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="knho18+" tvg-logo="" group-title="tv free",knho18+
-https://autopilot.catcast.tv/content/40381/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="XXX MILF" tvg-logo="" group-title="tv free",XXX MILF
-https://cdn.redtraffic.net/milf.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="XXX Big Dick" tvg-logo="" group-title="tv free",XXX Big Dick
-https://cdn.redtraffic.net/bigdick.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="XXX Big Tits" tvg-logo="" group-title="tv free",XXX Big Tits
-https://cdn.redtraffic.net/bigtits.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="XXX Fetish" tvg-logo="" group-title="tv free",XXX Fetish
-https://cdn.redtraffic.net/fetish.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="XXX Big Ass" tvg-logo="" group-title="tv free",XXX Big Ass
-https://cdn.redtraffic.net/bigass.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="XXX Interracial" tvg-logo="" group-title="tv free",XXX Interracial
-https://cdn.redtraffic.net/interracial.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="XXX Latina" tvg-logo="" group-title="tv free",XXX Latina
-https://cdn.redtraffic.net/latina.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="XXX POV" tvg-logo="" group-title="tv free",XXX POV
-https://cdn.redtraffic.net/pov.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="XXX Blowjob" tvg-logo="" group-title="tv free",XXX Blowjob
-https://cdn.redtraffic.net/blowjob.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="XXX Teen" tvg-logo="" group-title="tv free",XXX Teen
-https://cdn.redtraffic.net/teen.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="XXX Hardcore" tvg-logo="" group-title="tv free",XXX Hardcore
-https://cdn.redtraffic.net/hardcore.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="XXX Cuckold" tvg-logo="" group-title="tv free",XXX Cuckold
-https://cdn.redtraffic.net/cuckold.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="XXX Threesome" tvg-logo="" group-title="tv free",XXX Threesome
-https://cdn.redtraffic.net/threesome.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="XXX Russian" tvg-logo="" group-title="tv free",XXX Russian
-https://cdn.redtraffic.net/russian.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="XXX Lesbian" tvg-logo="" group-title="tv free",XXX Lesbian
-https://cdn.redtraffic.net/lesbian.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="XXX Rough" tvg-logo="" group-title="tv free",XXX Rough
-https://cdn.redtraffic.net/rough.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="XXX Gangbang" tvg-logo="" group-title="tv free",XXX Gangbang
-https://cdn.redtraffic.net/gangbang.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="XXX Anal" tvg-logo="" group-title="tv free",XXX Anal
-https://cdn.redtraffic.net/anal.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="XXX Compilation" tvg-logo="" group-title="tv free",XXX Compilation
-https://cdn.redtraffic.net/compilation.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="XXX Brunette" tvg-logo="" group-title="tv free",XXX Brunette
-https://cdn.redtraffic.net/brunette.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RUBIA" tvg-logo="" group-title="tv free",RUBIA
-https://cdn.redtraffic.net/blonde.m3u8
