@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dj435/tv/refs/heads/main/logos/canal7.png" group-title="tv free",CANAL 7
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dj435.github.io/tv/logos/garagetv.jpg" group-title="tv free",GARAGE TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dj435.github.io/tv/logos/canal10.jpg" group-title="tv free",CANAL 10
+https://panel.host-live.com/tvrionegro/ngrp:tvrionegro_all/chunklist_w312168167_b762165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dj435.github.io/tv/logos/telesur.jpg" group-title="tv free",TELESUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dj435.github.io/tv/logos/rt.jpg" group-title="tv free",RT LATINO
+https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="tv free",RTN NEUQUEN
+http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="tv free",PELIS Y POPCORN
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f7b47b7-a2d8-4c61-847a-02818046001b
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://orbittv.net/images/orbit_logo4.png" group-title="tv free",ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINERAMA" tvg-logo="https://dj435.github.io/tv/logos/cineramatelevision.jpg" group-title="tv free",CINERAMA
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dj435.github.io/tv/logos/retroplus.jpg" group-title="tv free",RETRO PLUS
+https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="tv free",FREETV ACCION
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/playlist.m3u8?c_producer=topcinelatam&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0&ads.islive=1&ads.streamtype=live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/freetv_drama_1920x1080_0.jpg" group-title="tv free",FREETV DRAMA
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="SPTV" tvg-logo="https://dj435.github.io/tv/logos/sptv.jpg" group-title="tv free",SPTV
+https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dj435.github.io/tv/logos/cinesony.jpg" group-title="tv free",SONY CINE
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dj435.github.io/tv/logos/gentv.jpg" group-title="tv free",GENTV
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dj435.github.io/tv/logos/cinemamas.jpg" group-title="tv free",CINEMA+
+https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baires" tvg-logo="https://dj435.github.io/tv/logos/bayres.jpg" group-title="tv free",BAIRES
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://miamitv.com/images/669a96975172d_Miami%20TV%20Fashion.jpg" group-title="tv free",MIAMI TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://miamitv.com/images/669a96975172d_Miami%20TV%20Fashion.jpg" group-title="tv free",MIAMI TV 2
+https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="EXXXOTICA" tvg-logo="https://i.ibb.co/zr7DCKM/exotica.jpg" group-title="tv free",EXXXOTICA
+http://31.148.48.15:80/O-la-la/index.m3u8?token=test
+#EXTINF:-1 tvg-id="ext" tvg-name="Playboy HD" tvg-logo="https://i.ibb.co/Cm6PKYW/playboy.jpg" group-title="tv free",Playboy HD
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="knho18+" tvg-logo="" group-title="tv free",knho18+
+https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Babestation24 (720p)" tvg-logo="" group-title="tv free",Babestation24 (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX MILF" tvg-logo="" group-title="tv free",XXX MILF
+https://cdn.redtraffic.net/milf.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="XXX Big Dick" tvg-logo="" group-title="tv free",XXX Big Dick
+https://cdn.redtraffic.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="XXX Big Tits" tvg-logo="" group-title="tv free",XXX Big Tits
+https://cdn.redtraffic.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="XXX Fetish" tvg-logo="" group-title="tv free",XXX Fetish
+https://cdn.redtraffic.net/fetish.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="XXX Big Ass" tvg-logo="" group-title="tv free",XXX Big Ass
+https://cdn.redtraffic.net/bigass.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="XXX Interracial" tvg-logo="" group-title="tv free",XXX Interracial
+https://cdn.redtraffic.net/interracial.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="XXX Latina" tvg-logo="" group-title="tv free",XXX Latina
+https://cdn.redtraffic.net/latina.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="XXX POV" tvg-logo="" group-title="tv free",XXX POV
+https://cdn.redtraffic.net/pov.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="XXX Blowjob" tvg-logo="" group-title="tv free",XXX Blowjob
+https://cdn.redtraffic.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="XXX Teen" tvg-logo="" group-title="tv free",XXX Teen
+https://cdn.redtraffic.net/teen.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="XXX Hardcore" tvg-logo="" group-title="tv free",XXX Hardcore
+https://cdn.redtraffic.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="XXX Cuckold" tvg-logo="" group-title="tv free",XXX Cuckold
+https://cdn.redtraffic.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="XXX Threesome" tvg-logo="" group-title="tv free",XXX Threesome
+https://cdn.redtraffic.net/threesome.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="XXX Russian" tvg-logo="" group-title="tv free",XXX Russian
+https://cdn.redtraffic.net/russian.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="XXX Lesbian" tvg-logo="" group-title="tv free",XXX Lesbian
+https://cdn.redtraffic.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="XXX Rough" tvg-logo="" group-title="tv free",XXX Rough
+https://cdn.redtraffic.net/rough.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="XXX Gangbang" tvg-logo="" group-title="tv free",XXX Gangbang
+https://cdn.redtraffic.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="XXX Anal" tvg-logo="" group-title="tv free",XXX Anal
+https://cdn.redtraffic.net/anal.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="XXX Compilation" tvg-logo="" group-title="tv free",XXX Compilation
+https://cdn.redtraffic.net/compilation.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="XXX Brunette" tvg-logo="" group-title="tv free",XXX Brunette
+https://cdn.redtraffic.net/brunette.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="XXX Blonde" tvg-logo="" group-title="tv free",XXX Blonde
+https://cdn.redtraffic.net/blonde.m3u8
