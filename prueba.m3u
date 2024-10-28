@@ -7,16 +7,20 @@ https://panel.host-live.com/tvrionegro/ngrp:tvrionegro_all/chunklist_w312168167_
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/cronica.jpg" group-title="tv free",CRONICA TV
 https://g3.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV PUBLICA" tvg-logo="" group-title="tv free",TV PUBLICA
+#EXTINF:-1 tvg-id="" tvg-name="TV PUBLICA" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/tvpublica.jpg" group-title="tv free",TV PUBLICA
 https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A24" tvg-logo="" group-title="tv free",A24
+#EXTINF:-1 tvg-id="" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/a24.jpg" group-title="tv free",A24
 https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="" group-title="tv free",AMERICA TV
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/america.jpg" group-title="tv free",AMERICA TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC TOP" tvg-logo="" group-title="tv free",MUSIC TOP
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 13" tvg-logo="" group-title="tv free",CANAL 13
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 13" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/canal13.jpg" group-title="tv free",CANAL 13
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC TOP" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/musictop.jpg" group-title="tv free",MUSIC TOP
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/c5n.png" group-title="tv free",C5N
+https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="" group-title="tv free",TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TELESUR" tvg-logo="https://dj435.github.io/tv/logos/telesur.jpg" group-title="tv free",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="DW" tvg-logo="https://dj435.github.io/tv/logos/dw.jpg" group-title="tv free",DW
@@ -57,4 +61,3 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MIAMI TV 2" tvg-logo="https://miamitv.com/images/669a96975172d_Miami%20TV%20Fashion.jpg" group-title="tv free",MIAMI TV 2
 https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/playlist.m3u8
-
