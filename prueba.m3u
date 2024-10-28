@@ -7,6 +7,8 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 https://panel.host-live.com/tvrionegro/ngrp:tvrionegro_all/chunklist_w312168167_b762165.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TELESUR" tvg-logo="https://dj435.github.io/tv/logos/telesur.jpg" group-title="tv free",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://dj435.github.io/tv/logos/dw.jpg" group-title="tv free",DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="RT LATINO" tvg-logo="https://dj435.github.io/tv/logos/rt.jpg" group-title="tv free",RT LATINO
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="RTN NEUQUEN" tvg-logo="" group-title="tv free",RTN NEUQUEN
