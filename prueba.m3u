@@ -5,9 +5,11 @@ https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CANAL 10" tvg-logo="https://dj435.github.io/tv/logos/canal10.jpg" group-title="tv free",CANAL 10
 https://panel.host-live.com/tvrionegro/ngrp:tvrionegro_all/chunklist_w312168167_b762165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEMAX" tvg-logo="https://dj435.github.io/tv/logos/telemax.jpg" group-title="tv free",TELEMAX
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TELESUR" tvg-logo="https://dj435.github.io/tv/logos/telesur.jpg" group-title="tv free",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://dj435.github.io/tv/logos/dw.jpg" group-title="tv free",DW
+#EXTINF:-1 tvg-id="ext" tvg-name="DW" tvg-logo="https://dj435.github.io/tv/logos/dw.jpg" group-title="tv free",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="RT LATINO" tvg-logo="https://dj435.github.io/tv/logos/rt.jpg" group-title="tv free",RT LATINO
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
@@ -23,6 +25,8 @@ https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ext" tvg-name="FREETV ACCION" tvg-logo="" group-title="tv free",FREETV ACCION
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/playlist.m3u8?c_producer=topcinelatam&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0&ads.islive=1&ads.streamtype=live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_estelar_1080x1080_02092024.jpg" group-title="tv free",FREETV ESTELAR
+https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/playlist/amg01024-olympusat-tucinelatam-ono/cb573d177b6c648d92d43e61cef84482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ad7f4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fee25b17d165a8e50141917a42fa83439c8201e989d45d8344d372a712959af5dd8241828c8959875bea201d487832d6817d808748a5c69b6d2ad2643b182145f4aa85ff4d25f4212938a9c6e5913fb279a98821922e33b204ea0dee70df39f358a4e51ba2f9ecda114069f594026577f0b5f38ba86d67ea34fdfbbf8e2934f398157c54876cc832143a85f3cf1881b163fcc2208ab9271234d99c558e8eb397a1969f4f9911fc9d9af25a434a704a068849d0f907ba79870fc2a912254f0351bf9627a8ecb35822674a929610d71c16e38ee1f2de0a2884610b4ad773cd541769f3217e70976d93e434789d3619df7a72ec4f22ce44eebd29e1b195e60936fadac254f66ceaa650a69c68bc7e034910bae42d5c5c3e1bba8a37341e5799068ebacbe5644707e9f9dffbb225527316055b0b82ece67c9e9d802d1856e741236540264dee6eba68db1307013ed921ddad0471f76e4b4bc0b53a586e5accb8dbe886d2d90ab670c3dffc4b4c513833e7496f486fd7a5c35ac22859717e48830a7631d56d3c56ff96c0eb9cb29eaff610c2d3f59f02bf9236734b3b52710d9e9e7cde50e3e165d3f9f97dbc21098f27ff51900e058ad89c4df5e893ce4c0eead83fbdf41eb255ae4a28d515d56baac775d6b1177774b6ddc1a3fc35cb25deeb8fc43e972da30565148e2ceaccb6e1990e3c96850ec4acf98b4ddf2bd20ec1b164e054a031959d2ae34fefe854e66346343a49ca8b0e5fc9dc621f89387f6e9f6daae1a2e70c0ac362f87486354df6174519e8c23ce594a1b3d4b32f055097e6f00c8ca886d7988d8a3e285f2570bad14f5972ef23f2a70ef5e2482fb8c7d8b39a26bc5dd61897c8f622ed37a58b9b0bad9b92b7bb541f4c555af98ea6aa4d95ec4415f52b9b7e2c1e9d98edbb30a88df2542e98288aef3067a03a714adaebaa54ba4c96d2797bb7c93923961e54e6eff02110cd5ed7033a6ffec0842e768ff4069d499482e44d2ba80d0def535171a61eabd0a7088f8019df9c898b2ce79a4a0ebd56df8db33c6ea05374a3/17/426x240_511680/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="FREETV DRAMA" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/freetv_drama_1920x1080_0.jpg" group-title="tv free",FREETV DRAMA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ext" tvg-name="SPTV" tvg-logo="https://dj435.github.io/tv/logos/sptv.jpg" group-title="tv free",SPTV
@@ -31,8 +35,14 @@ https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="GENTV" tvg-logo="https://dj435.github.io/tv/logos/gentv.jpg" group-title="tv free",GENTV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANC TV" tvg-logo="https://panctv.com.ar/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png" group-title="tv free",PANC TV
+https://panel.host-live.com:19360/81500/81500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LATINA TV" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/latina.jpg" group-title="tv free",LATINA TV
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CINEMA+" tvg-logo="https://dj435.github.io/tv/logos/cinemamas.jpg" group-title="tv free",CINEMA+
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COSMOS TV" tvg-logo="https://dj435.github.io/tv/logos/cosmostv.jpg" group-title="tv free",COSMOS TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Baires" tvg-logo="https://dj435.github.io/tv/logos/bayres.jpg" group-title="tv free",Baires
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MIAMI TV" tvg-logo="https://miamitv.com/images/669a96975172d_Miami%20TV%20Fashion.jpg" group-title="tv free",MIAMI TV
@@ -45,8 +55,6 @@ http://31.148.48.15:80/O-la-la/index.m3u8?token=test
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="knho18+" tvg-logo="" group-title="tv free",knho18+
 https://autopilot.catcast.tv/content/40381/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Babestation24 (720p)" tvg-logo="" group-title="tv free",Babestation24 (720p)
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="XXX MILF" tvg-logo="" group-title="tv free",XXX MILF
 https://cdn.redtraffic.net/milf.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="XXX Big Dick" tvg-logo="" group-title="tv free",XXX Big Dick
@@ -89,4 +97,3 @@ https://cdn.redtraffic.net/compilation.m3u8
 https://cdn.redtraffic.net/brunette.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="RUBIA" tvg-logo="" group-title="tv free",RUBIA
 https://cdn.redtraffic.net/blonde.m3u8
-
