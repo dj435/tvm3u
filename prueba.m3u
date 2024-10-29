@@ -5,27 +5,27 @@ https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 https://panel.host-live.com/tvrionegro/ngrp:tvrionegro_all/chunklist_w312168167_b762165.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="GARAGE TV" tvg-logo="https://dj435.github.io/tv/logos/garagetv.jpg" group-title="tv free",GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/cronica.jpg" group-title="tv free",CRONICA TV
-https://g3.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV PUBLICA" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/tvpublica.jpg" group-title="tv free",TV PUBLICA
+#EXTINF:-1 tvg-id="ext" tvg-name="TV PUBLICA" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/tvpublica.jpg" group-title="tv free",TV PUBLICA
 https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/a24.jpg" group-title="tv free",A24
+#EXTINF:-1 tvg-id="ext" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/a24.jpg" group-title="tv free",A24
 https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/america.jpg" group-title="tv free",AMERICA TV
+#EXTINF:-1 tvg-id="ext" tvg-name="AMERICA TV" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/america.jpg" group-title="tv free",AMERICA TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 13" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/canal13.jpg" group-title="tv free",CANAL 13
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL 13" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/canal13.jpg" group-title="tv free",CANAL 13
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/c5n.png" group-title="tv free",C5N 2
+#EXTINF:-1 tvg-id="ext" tvg-name="LN+" tvg-logo="" group-title="tv free",LN+
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730190997/ei/NEogZ8_WOuWYobIPpNGU4Aw/ip/190.138.17.94/id/G5pHuBCqgrs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAafMWhpcN3HFxB9oH37Yr7r6QkdAphs_WjsZTkchmHGiBqCHPLVhzCsCHpo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgW4oVychogz5E6EIa9ViFah_MZYMEgHRDzFfcBWPMP3UCIFc_j8d5BSXWyKgCi6KZOUFPiV-JCFxiPsuoxKfhmyD4/file/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="CRONICA TV" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/cronica.jpg" group-title="tv free",CRONICA TV
+https://g3.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="C5N" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/c5n.png" group-title="tv free",C5N
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/c5n.png" group-title="tv free",C5N
-https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/telefe.jpg" group-title="tv free",TELEFE
+#EXTINF:-1 tvg-id="ext" tvg-name="C5N 2" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/c5n.png" group-title="tv free",C5N 2
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730190808/ei/eEkgZ6K1CqiV-LAPhruHqQs/ip/190.138.17.94/id/N1Tfrn7hMWU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAU5BMTNbwpP2XH9zMpZ2QOd90W6_F3luPAiaQiGQOqoNSkT4kW4dYIv5L9w/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJ7dSeqxN_4eNju7JZbVXR337cNbcVh0zAok4UpbOVL_AiEAu5-Le6P7ug13wlZu4jc6py-S_6yBRthmILkqiE6KQ6s%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TELEFE" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/telefe.jpg" group-title="tv free",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TELESUR" tvg-logo="https://dj435.github.io/tv/logos/telesur.jpg" group-title="tv free",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/magazine.jpg" group-title="tv free",CIUDAD MAGAZINE
+#EXTINF:-1 tvg-id="ext" tvg-name="CIUDAD MAGAZINE" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/magazine.jpg" group-title="tv free",CIUDAD MAGAZINE
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="DW" tvg-logo="https://dj435.github.io/tv/logos/dw.jpg" group-title="tv free",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -43,7 +43,7 @@ https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ext" tvg-name="FREETV ACCION" tvg-logo="" group-title="tv free",FREETV ACCION
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/playlist.m3u8?c_producer=topcinelatam&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0&ads.islive=1&ads.streamtype=live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_estelar_1080x1080_02092024.jpg" group-title="tv free",FREETV ESTELAR
+#EXTINF:-1 tvg-id="ext" tvg-name="FREETV ESTELAR" tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_estelar_1080x1080_02092024.jpg" group-title="tv free",FREETV ESTELAR
 https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/playlist/amg01024-olympusat-tucinelatam-ono/cb573d177b6c648d92d43e61cef84482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ad7f4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fee25b17d165a8e50141917a42fa83439c8201e989d45d8344d372a712959af5dd8241828c8959875bea201d487832d6817d808748a5c69b6d2ad2643b182145f4aa85ff4d25f4212938a9c6e5913fb279a98821922e33b204ea0dee70df39f358a4e51ba2f9ecda114069f594026577f0b5f38ba86d67ea34fdfbbf8e2934f398157c54876cc832143a85f3cf1881b163fcc2208ab9271234d99c558e8eb397a1969f4f9911fc9d9af25a434a704a068849d0f907ba79870fc2a912254f0351bf9627a8ecb35822674a929610d71c16e38ee1f2de0a2884610b4ad773cd541769f3217e70976d93e434789d3619df7a72ec4f22ce44eebd29e1b195e60936fadac254f66ceaa650a69c68bc7e034910bae42d5c5c3e1bba8a37341e5799068ebacbe5644707e9f9dffbb225527316055b0b82ece67c9e9d802d1856e741236540264dee6eba68db1307013ed921ddad0471f76e4b4bc0b53a586e5accb8dbe886d2d90ab670c3dffc4b4c513833e7496f486fd7a5c35ac22859717e48830a7631d56d3c56ff96c0eb9cb29eaff610c2d3f59f02bf9236734b3b52710d9e9e7cde50e3e165d3f9f97dbc21098f27ff51900e058ad89c4df5e893ce4c0eead83fbdf41eb255ae4a28d515d56baac775d6b1177774b6ddc1a3fc35cb25deeb8fc43e972da30565148e2ceaccb6e1990e3c96850ec4acf98b4ddf2bd20ec1b164e054a031959d2ae34fefe854e66346343a49ca8b0e5fc9dc621f89387f6e9f6daae1a2e70c0ac362f87486354df6174519e8c23ce594a1b3d4b32f055097e6f00c8ca886d7988d8a3e285f2570bad14f5972ef23f2a70ef5e2482fb8c7d8b39a26bc5dd61897c8f622ed37a58b9b0bad9b92b7bb541f4c555af98ea6aa4d95ec4415f52b9b7e2c1e9d98edbb30a88df2542e98288aef3067a03a714adaebaa54ba4c96d2797bb7c93923961e54e6eff02110cd5ed7033a6ffec0842e768ff4069d499482e44d2ba80d0def535171a61eabd0a7088f8019df9c898b2ce79a4a0ebd56df8db33c6ea05374a3/17/426x240_511680/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="FREETV DRAMA" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/freetv_drama_1920x1080_0.jpg" group-title="tv free",FREETV DRAMA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8?PlaylistM3UCL
@@ -53,11 +53,11 @@ https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="GENTV" tvg-logo="https://dj435.github.io/tv/logos/gentv.jpg" group-title="tv free",GENTV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PANC TV" tvg-logo="https://panctv.com.ar/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png" group-title="tv free",PANC TV
+#EXTINF:-1 tvg-id="ext" tvg-name="PANC TV" tvg-logo="https://panctv.com.ar/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png" group-title="tv free",PANC TV
 https://panel.host-live.com:19360/81500/81500.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CINEMA+" tvg-logo="https://dj435.github.io/tv/logos/cinemamas.jpg" group-title="tv free",CINEMA+
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COSMOS TV" tvg-logo="https://dj435.github.io/tv/logos/cosmostv.jpg" group-title="tv free",COSMOS TV
+#EXTINF:-1 tvg-id="ext" tvg-name="COSMOS TV" tvg-logo="https://dj435.github.io/tv/logos/cosmostv.jpg" group-title="tv free",COSMOS TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Baires" tvg-logo="https://dj435.github.io/tv/logos/bayres.jpg" group-title="tv free",Baires
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
@@ -65,7 +65,3 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MIAMI TV 2" tvg-logo="https://miamitv.com/images/669a96975172d_Miami%20TV%20Fashion.jpg" group-title="tv free",MIAMI TV 2
 https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LN+" tvg-logo="" group-title="tv free",LN+
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730190997/ei/NEogZ8_WOuWYobIPpNGU4Aw/ip/190.138.17.94/id/G5pHuBCqgrs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAafMWhpcN3HFxB9oH37Yr7r6QkdAphs_WjsZTkchmHGiBqCHPLVhzCsCHpo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgW4oVychogz5E6EIa9ViFah_MZYMEgHRDzFfcBWPMP3UCIFc_j8d5BSXWyKgCi6KZOUFPiV-JCFxiPsuoxKfhmyD4/file/index.m3u8
-
-
