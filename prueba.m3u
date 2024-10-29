@@ -65,9 +65,7 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MIAMI TV 2" tvg-logo="https://miamitv.com/images/669a96975172d_Miami%20TV%20Fashion.jpg" group-title="tv free",MIAMI TV 2
 https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="" group-title="tv free",TYC SPORTS
-https://u4c5a.pricesaskeloadsc.com/tyc_sports/index.m3u8?token=46b2fd7e6d5d8a98aa44632aabcfffcb3ca2e253-54-1730201868-1730165868
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="" group-title="tv free",TYC SPORTS
-https://u4c5a.pricesaskeloadsc.com/tyc_sports/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LN+" tvg-logo="" group-title="tv free",LN+
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730190997/ei/NEogZ8_WOuWYobIPpNGU4Aw/ip/190.138.17.94/id/G5pHuBCqgrs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAafMWhpcN3HFxB9oH37Yr7r6QkdAphs_WjsZTkchmHGiBqCHPLVhzCsCHpo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgW4oVychogz5E6EIa9ViFah_MZYMEgHRDzFfcBWPMP3UCIFc_j8d5BSXWyKgCi6KZOUFPiV-JCFxiPsuoxKfhmyD4/file/index.m3u8
 
 
