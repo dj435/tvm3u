@@ -65,8 +65,6 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MIAMI TV 2" tvg-logo="https://miamitv.com/images/669a96975172d_Miami%20TV%20Fashion.jpg" group-title="tv free",MIAMI TV 2
 https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FUTURA" tvg-logo="" group-title="tv free",FUTURA
-https://tv.unisc.br/hls/test.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="" group-title="tv free",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EN VIVO" tvg-logo="" group-title="tv free",EN VIVO
@@ -77,3 +75,5 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730193237/ei/9
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730193304/ei/OFMgZ97oFtWjobIP2qTI2Aw/ip/190.138.17.94/id/Y-IlMeCCtIg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAShvLJFXim5HGLkPBSA4sW31uTaX3tkTcgngMix-znlnNafjSuR5qUDc7O4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAORsSVX8b33ZCOZpcm_ENb-Ydz0QxX9udUM_V19lypo3AiA-xgcWIMvOEh56dvGqk5C0cMEjlK-5cWJJ9vTwkOIJDg%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LOCOMOTION" tvg-logo="" group-title="tv free",LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO 10" tvg-logo="https://i.postimg.cc/7ZKCC0HT/tigre.jpg" group-title="tv free",RADIO 10
+http://s6.stweb.tv/radio10/live/playlist.m3u8
