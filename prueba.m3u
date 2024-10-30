@@ -20,7 +20,7 @@ https://g3.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_
 #EXTINF:-1 tvg-id="ext" tvg-name="C5N" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/c5n.png" group-title="tv free",C5N
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="C5N 2" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/c5n.png" group-title="tv free",C5N 2
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730190808/ei/eEkgZ6K1CqiV-LAPhruHqQs/ip/190.138.17.94/id/N1Tfrn7hMWU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAU5BMTNbwpP2XH9zMpZ2QOd90W6_F3luPAiaQiGQOqoNSkT4kW4dYIv5L9w/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJ7dSeqxN_4eNju7JZbVXR337cNbcVh0zAok4UpbOVL_AiEAu5-Le6P7ug13wlZu4jc6py-S_6yBRthmILkqiE6KQ6s%3D/file/index.m3u8
+https://ythls.armelin.one/video/N1Tfrn7hMWU.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TELEFE" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/telefe.jpg" group-title="tv free",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TELESUR" tvg-logo="https://dj435.github.io/tv/logos/telesur.jpg" group-title="tv free",TELESUR
