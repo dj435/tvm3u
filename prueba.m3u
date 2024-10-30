@@ -79,8 +79,8 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY" tvg-logo="" group-title="tv free",DISNEY
 http://168.181.122.234:8000/play/a038/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="tv free",DISNEY JUNIOR
-http://168.181.122.234:8000/play/a037/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VENUS" tvg-logo="" group-title="tv free",VENUS
+http://168.181.122.234:8000/play/a027/index.m3u8
 
 
 
