@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="ext" tvg-name="CANAL 7" tvg-logo="https://raw.githubusercontent.com/dj435/tv/refs/heads/main/logos/canal7.png" group-title="tv free",CANAL 7
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CANAL 10" tvg-logo="https://dj435.github.io/tv/logos/canal10.jpg" group-title="tv free",CANAL 10
-https://panel.host-live.com/tvrionegro/ngrp:tvrionegro_all/chunklist_w312168167_b762165.m3u8
+https://panel.host-live.com:443/tvrionegro/ngrp:tvrionegro_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ext" tvg-name="GARAGE TV" tvg-logo="https://dj435.github.io/tv/logos/garagetv.jpg" group-title="tv free",GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TV PUBLICA" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/tvpublica.jpg" group-title="tv free",TV PUBLICA
@@ -69,4 +69,6 @@ https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="" group-title="tv free",FRANCE 24
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOCOMOTION" tvg-logo="" group-title="tv free",LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 
