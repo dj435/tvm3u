@@ -6,7 +6,7 @@ https://panel.host-live.com:443/tvrionegro/ngrp:tvrionegro_all/playlist.m3u8?Pla
 #EXTINF:-1 tvg-id="ext" tvg-name="GARAGE TV" tvg-logo="https://dj435.github.io/tv/logos/garagetv.jpg" group-title="tv free",GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TV PUBLICA" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/tvpublica.jpg" group-title="tv free",TV PUBLICA
-https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
+https://ythls.armelin.one/channel/UCs231K71Bnu5295_x0MB5Pg.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/a24.jpg" group-title="tv free",A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AMERICA TV" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/america.jpg" group-title="tv free",AMERICA TV
@@ -71,6 +71,8 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="CNN ESPAÑOL" tvg-logo="" group-title="tv free",CNN ESPAÑOL
 https://ythls.armelin.one/channel/UC_lEiu6917IJz03TnntWUaQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PELICULA" tvg-logo="" group-title="tv free",PELICULA
+https://ythls.armelin.one/video/F-wsWdFAplY.m3u8
 
 
 
