@@ -71,6 +71,16 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="CNN ESPAÑOL" tvg-logo="" group-title="tv free",CNN ESPAÑOL
 https://ythls.armelin.one/channel/UC_lEiu6917IJz03TnntWUaQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="" group-title="tv free",STAR CHANNEL
+https://streamer1.nexgen.bz/STAR/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XTREMA ACCION" tvg-logo="" group-title="tv free",XTREMA ACCION
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECOVISION" tvg-logo="" group-title="tv free",ECOVISION
+https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY" tvg-logo="" group-title="tv free",DISNEY
+http://168.181.122.234:8000/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="tv free",DISNEY JUNIOR
+http://168.181.122.234:8000/play/a037/index.m3u8
 
 
 
