@@ -87,6 +87,9 @@ http://168.181.122.234:8000/play/a019/index.m3u8
 http://168.181.122.234:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV 00S" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/mtv00s.jpg" group-title="tv free",MTV 00S
 http://168.181.122.234:8000/play/a030/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="AMERICA TV USA" tvg-logo="" group-title="tv free",AMERICA TV USA
+https://live.gideo.video/americateve2/master.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MIAMI TV" tvg-logo="https://miamitv.com/images/669a96975172d_Miami%20TV%20Fashion.jpg" group-title="tv free",MIAMI TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
+
 
