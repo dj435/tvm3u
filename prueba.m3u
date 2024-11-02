@@ -6,7 +6,7 @@ https://panel.host-live.com:443/tvrionegro/ngrp:tvrionegro_all/playlist.m3u8?Pla
 #EXTINF:-1 tvg-id="ext" tvg-name="GARAGE TV" tvg-logo="https://dj435.github.io/tv/logos/garagetv.jpg" group-title="tv free",GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TV PUBLICA" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/tvpublica.jpg" group-title="tv free",TV PUBLICA
-https://ythls.armelin.one/channel/UCs231K71Bnu5295_x0MB5Pg.m3u8
+https://ythls.armelin.one/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/a24.jpg" group-title="tv free",A24
 https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AMERICA TV" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/america.jpg" group-title="tv free",AMERICA TV
