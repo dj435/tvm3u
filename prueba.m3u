@@ -89,4 +89,3 @@ http://168.181.122.234:8000/play/a030/index.m3u8
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="VENUS" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/venus.jpg" group-title="tv free",VENUS
 http://168.181.122.234:8000/play/a027/index.m3u8
-http://168.181.122.234:8000/play/a027/index.m3u8
