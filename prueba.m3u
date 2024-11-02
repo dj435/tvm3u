@@ -27,6 +27,8 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="RT LATINO" tvg-logo="https://dj435.github.io/tv/logos/rt.jpg" group-title="tv free",RT LATINO
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="EL DESTAPE" tvg-logo="https://dj435.github.io/tv/logos/rt.jpg" group-title="tv free",EL DESTAPE
+https://ythls.armelin.one/channel/UC5wAqJ9NF0fpGH9dVf3h6HA.m3u8 
 #EXTINF:-1 tvg-id="ext" tvg-name="RTN NEUQUEN" tvg-logo="" group-title="tv free",RTN NEUQUEN
 http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="PELIS Y POPCORN" tvg-logo="" group-title="tv free",PELIS Y POPCORN
