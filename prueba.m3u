@@ -69,7 +69,7 @@ https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="LOCOMOTION" tvg-logo="" group-title="tv free",LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="ext" tvg-name="CNN ESPAÑOL" tvg-logo="" group-title="tv free",CNN ESPAÑOL
+#EXTINF:-1 tvg-id="ext" tvg-name="CNN ESPAÑOL" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/cnn.png" group-title="tv free",CNN ESPAÑOL
 https://ythls.armelin.one/channel/UC_lEiu6917IJz03TnntWUaQ.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR CHANNEL" tvg-logo="" group-title="tv free",STAR CHANNEL
 https://streamer1.nexgen.bz/STAR/index.m3u8
