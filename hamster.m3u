@@ -15,3 +15,5 @@ https://video-cf.xhcdn.com/b3vlTJVAE5IAORKckPEF2mqF5XoTktPEHtf8CSjjsCM%3D/104/17
 https://video-cf.xhcdn.com/mks9Ee%2BGAVTcvsb0J1eTvAzUszKHFPyKZmyN3n1vCMk%3D/104/1730534400/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:,1920x1080:1080p:/024/758/486/1080p.av1.mp4.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="VENUS" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/venus.jpg" group-title="tv free",VENUS
 http://168.181.122.234:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="VENUS" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/venus.jpg" group-title="tv free",VENUS
+http://168.181.122.234:8000/play/a027/index.m3u8
