@@ -107,6 +107,8 @@ http://191.52.214.5:8000/play/a02i/index.m3u8
 http://191.52.214.5:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="" group-title="tv free",ESPN 2
 http://191.52.214.5:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUN" tvg-logo="" group-title="tv free",ESPN PREMIUN
+http://191.52.214.5:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORT" tvg-logo="" group-title="tv free",FOX SPORT
 http://191.52.214.5:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR CHANEL" tvg-logo="" group-title="tv free",STAR CHANEL
