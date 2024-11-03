@@ -7,30 +7,36 @@ https://panel.host-live.com:443/tvrionegro/ngrp:tvrionegro_all/playlist.m3u8?Pla
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TV PUBLICA" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/tvpublica.jpg" group-title="tv free",TV PUBLICA
 https://ythls.armelin.one/channel/UCs231K71Bnu5295_x0MB5Pg.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/a24.jpg" group-title="tv free",A24
-https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AMERICA TV" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/america.jpg" group-title="tv free",AMERICA TV
 https://ythls.armelin.one/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CANAL 13" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/canal13.jpg" group-title="tv free",CANAL 13
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CRONICA TV" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/cronica.jpg" group-title="tv free",CRONICA TV
-https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="C5N" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/c5n.png" group-title="tv free",C5N
-https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TELEFE" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/telefe.jpg" group-title="tv free",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TELESUR" tvg-logo="https://dj435.github.io/tv/logos/telesur.jpg" group-title="tv free",TELESUR
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CIUDAD MAGAZINE" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/magazine.jpg" group-title="tv free",CIUDAD MAGAZINE
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="LN" tvg-logo="" group-title="tv free",LN
+https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TN" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/tn.jpg" group-title="tv free",TN
+https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="C5N" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/c5n.png" group-title="tv free",C5N
+https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="CRONICA TV" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/cronica.jpg" group-title="tv free",CRONICA TV
+https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/a24.jpg" group-title="tv free",A24
+https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TELESUR" tvg-logo="https://dj435.github.io/tv/logos/telesur.jpg" group-title="tv free",TELESUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="DW" tvg-logo="https://dj435.github.io/tv/logos/dw.jpg" group-title="tv free",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="RT LATINO" tvg-logo="https://dj435.github.io/tv/logos/rt.jpg" group-title="tv free",RT LATINO
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="EL DESTAPE" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/destape.jpeg" group-title="tv free",EL DESTAPE
-https://ythls.armelin.one/channel/UC5wAqJ9NF0fpGH9dVf3h6HA.m3u8 
 #EXTINF:-1 tvg-id="ext" tvg-name="RTN NEUQUEN" tvg-logo="" group-title="tv free",RTN NEUQUEN
 http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="FRANCE 24" tvg-logo="" group-title="tv free",FRANCE 24
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="CNN ESPAÑOL" tvg-logo="" group-title="tv free",CNN ESPAÑOL
+https://ythls.armelin.one/channel/UC_lEiu6917IJz03TnntWUaQ.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="PELIS Y POPCORN" tvg-logo="" group-title="tv free",PELIS Y POPCORN
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f7b47b7-a2d8-4c61-847a-02818046001b
 #EXTINF:-1 tvg-id="ext" tvg-name="ORBIT TV" tvg-logo="http://orbittv.net/images/orbit_logo4.png" group-title="tv free",ORBIT TV
@@ -59,18 +65,8 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="NET TV" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/Net_TV_logo.png" group-title="tv free",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TN" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/tn.jpg" group-title="tv free",TN
-https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="LN" tvg-logo="" group-title="tv free",LN
-https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CANAL 26" tvg-logo="" group-title="tv free",CANAL 26
 https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="FRANCE 24" tvg-logo="" group-title="tv free",FRANCE 24
-https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="LOCOMOTION" tvg-logo="" group-title="tv free",LOCOMOTION
-http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="ext" tvg-name="CNN ESPAÑOL" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/cnn.png" group-title="tv free",CNN ESPAÑOL
-https://ythls.armelin.one/channel/UC_lEiu6917IJz03TnntWUaQ.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR CHANNEL" tvg-logo="" group-title="tv free",STAR CHANNEL
 https://streamer1.nexgen.bz/STAR/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="XTREMA ACCION" tvg-logo="" group-title="tv free",XTREMA ACCION
@@ -79,17 +75,21 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="DISNEY" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/disney.jpg" group-title="tv free",DISNEY
 http://168.181.122.234:8000/play/a038/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/AE-logo.jpg" group-title="tv free",A&E
+#EXTINF:-1 tvg-id="ext" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/AE-logo.jpg" group-title="tv free",A&E
 http://168.181.122.234:8000/play/a010/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/history.jpg" group-title="tv free",HISTORY HD
+#EXTINF:-1 tvg-id="ext" tvg-name="HISTORY HD" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/history.jpg" group-title="tv free",HISTORY HD
 http://168.181.122.234:8000/play/a019/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/Discovery_Turbo.png" group-title="tv free",DISCOVERY TURBO
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY TURBO" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/Discovery_Turbo.png" group-title="tv free",DISCOVERY TURBO
 http://168.181.122.234:8000/play/a029/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV 00S" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/mtv00s.jpg" group-title="tv free",MTV 00S
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV 00S" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/mtv00s.jpg" group-title="tv free",MTV 00S
 http://168.181.122.234:8000/play/a030/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="AMERICA TV USA" tvg-logo="" group-title="tv free",AMERICA TV USA
-https://live.gideo.video/americateve2/master.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MIAMI TV" tvg-logo="https://miamitv.com/images/669a96975172d_Miami%20TV%20Fashion.jpg" group-title="tv free",MIAMI TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE ROMANTICO" tvg-logo="" group-title="tv free",CINE ROMANTICO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+#EXTINF:-1 tvg-id="ext" tvg-name="AXN" tvg-logo="" group-title="tv free",AXN
+https://streamer1.nexgen.bz/AXN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="tv free",AMERICA USA
+https://live.gideo.video/americateve2/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="VENUS" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/venus.jpg" group-title="tv free",VENUS
+http://168.181.122.234:8000/play/a027/index.m3u8
