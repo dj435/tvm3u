@@ -25,6 +25,8 @@ https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/a24.jpg" group-title="tv free",A24
 https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="GENTV" tvg-logo="https://dj435.github.io/tv/logos/gentv.jpg" group-title="tv free",GENTV
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TELESUR" tvg-logo="https://dj435.github.io/tv/logos/telesur.jpg" group-title="tv free",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="DW" tvg-logo="https://dj435.github.io/tv/logos/dw.jpg" group-title="tv free",DW
@@ -53,8 +55,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/p
 https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY CINE" tvg-logo="https://dj435.github.io/tv/logos/cinesony.jpg" group-title="tv free",SONY CINE
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="GENTV" tvg-logo="https://dj435.github.io/tv/logos/gentv.jpg" group-title="tv free",GENTV
-https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL 26" tvg-logo="" group-title="tv free",CANAL 26
+https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="PANC TV" tvg-logo="https://panctv.com.ar/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png" group-title="tv free",PANC TV
 https://panel.host-live.com:19360/81500/81500.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CINEMA+" tvg-logo="https://dj435.github.io/tv/logos/cinemamas.jpg" group-title="tv free",CINEMA+
@@ -65,8 +67,6 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="NET TV" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/Net_TV_logo.png" group-title="tv free",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CANAL 26" tvg-logo="" group-title="tv free",CANAL 26
-https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR CHANNEL" tvg-logo="" group-title="tv free",STAR CHANNEL
 https://streamer1.nexgen.bz/STAR/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="XTREMA ACCION" tvg-logo="" group-title="tv free",XTREMA ACCION
@@ -79,6 +79,8 @@ http://168.181.122.234:8000/play/a038/index.m3u8
 http://168.181.122.234:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="HISTORY HD" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/history.jpg" group-title="tv free",HISTORY HD
 http://168.181.122.234:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO" tvg-logo="" group-title="tv free",NATGEO
+http://191.52.214.5:8000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY TURBO" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/Discovery_Turbo.png" group-title="tv free",DISCOVERY TURBO
 http://168.181.122.234:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MTV 00S" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/mtv00s.jpg" group-title="tv free",MTV 00S
@@ -89,7 +91,33 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-id="ext" tvg-name="AXN" tvg-logo="" group-title="tv free",AXN
 https://streamer1.nexgen.bz/AXN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="tv free",AMERICA USA
+#EXTINF:-1 tvg-id="ext" tvg-name="AMERICA USA" tvg-logo="" group-title="tv free",AMERICA USA
 https://live.gideo.video/americateve2/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="VENUS" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/venus.jpg" group-title="tv free",VENUS
-http://168.181.122.234:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="tv free",AMC
+http://191.52.214.5:8000/play/a02x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="tv free",ANIMAL PLANET
+http://191.52.214.5:8000/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="" group-title="tv free",CINEMAX
+http://191.52.214.5:8000/play/a02a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="tv free",COMEDY CENTRAL
+http://191.52.214.5:8000/play/a02b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="tv free",DISCOVERY H&H
+http://191.52.214.5:8000/play/a02i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="tv free",ESPN
+http://191.52.214.5:8000/play/a02s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="" group-title="tv free",ESPN 2
+http://191.52.214.5:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT" tvg-logo="" group-title="tv free",FOX SPORT
+http://191.52.214.5:8000/play/a02o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANEL" tvg-logo="" group-title="tv free",STAR CHANEL
+http://191.52.214.5:8000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="" group-title="tv free",SPACE HD
+http://191.52.214.5:8000/play/a01w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="tv free",TNT
+http://191.52.214.5:8000/play/a024/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS" tvg-logo="" group-title="tv free",GOLDEN PLUS
+http://191.52.214.5:8000/play/a03b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="tv free",FX HD
+http://168.181.122.234:8000/play/a033/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="" group-title="tv free",STUDIO UNIVERSAL
+http://168.181.122.234:8000/play/a043/index.m3u8
