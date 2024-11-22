@@ -7,10 +7,6 @@ https://panel.host-live.com:443/tvrionegro/ngrp:tvrionegro_all/playlist.m3u8?Pla
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TV PUBLICA" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/tvpublica.jpg" group-title="tv free",TV PUBLICA
 https://ythls.armelin.one/channel/UCs231K71Bnu5295_x0MB5Pg.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="AMERICA TV" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/america.jpg" group-title="tv free",AMERICA TV
-https://ythls.armelin.one/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="AMERICA TV2" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/america.jpg" group-title="tv free",AMERICA TV2
-https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CANAL 13" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/canal13.jpg" group-title="tv free",CANAL 13
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TELEFE" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/telefe.jpg" group-title="tv free",TELEFE
@@ -49,14 +45,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CINERAMA" tvg-logo="https://dj435.github.io/tv/logos/cineramatelevision.jpg" group-title="tv free",CINERAMA
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RETRO PLUS" tvg-logo="https://dj435.github.io/tv/logos/retroplus.jpg" group-title="tv free",RETRO PLUS
-https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ext" tvg-name="FREETV ACCION" tvg-logo="" group-title="tv free",FREETV ACCION
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/playlist.m3u8?c_producer=topcinelatam&dnt=__LIMIT_AD_TRACKING__&app_bundle=__APP_BUNDLE__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&did=__DEVICE_ID__&app_domain=__APP_DOMAIN__&device_make=&device_model=&coppa=0&ads.islive=1&ads.streamtype=live
 #EXTINF:-1 tvg-id="ext" tvg-name="SPTV" tvg-logo="https://dj435.github.io/tv/logos/sptv.jpg" group-title="tv free",SPTV
 https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SONY CINE" tvg-logo="https://dj435.github.io/tv/logos/cinesony.jpg" group-title="tv free",SONY CINE
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="PANC TV" tvg-logo="https://panctv.com.ar/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png" group-title="tv free",PANC TV
 https://panel.host-live.com:19360/81500/81500.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CINEMA+" tvg-logo="https://dj435.github.io/tv/logos/cinemamas.jpg" group-title="tv free",CINEMA+
@@ -75,8 +67,6 @@ http://191.52.214.5:8000/play/a02a/index.m3u8
 http://191.52.214.5:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR CHANEL" tvg-logo="" group-title="tv free",STAR CHANEL
 http://191.52.214.5:8000/play/a02k/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CINE ROMANTICO" tvg-logo="" group-title="tv free",CINE ROMANTICO
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-id="ext" tvg-name="SPACE HD" tvg-logo="" group-title="tv free",SPACE HD
 http://191.52.214.5:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TNT" tvg-logo="" group-title="tv free",TNT
@@ -111,6 +101,8 @@ http://168.181.122.234:8000/play/a029/index.m3u8
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MIAMI TV" tvg-logo="https://miamitv.com/images/669a96975172d_Miami%20TV%20Fashion.jpg" group-title="tv free",MIAMI TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="RETRO PLUS" tvg-logo="https://dj435.github.io/tv/logos/retroplus.jpg" group-title="tv free",RETRO PLUS
+https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ext" tvg-name="VEVO 80" tvg-logo="" group-title="tv free",VEVO 80
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="ext" tvg-name="VEVO 90" tvg-logo="" group-title="tv free",VEVO 90
