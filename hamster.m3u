@@ -1,11 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ext" tvg-name="BRAZZERS" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/brazzers-tv-official-logo.png" group-title="New group",BRAZZERS
-https://ortepe.xyz:52907/tv/brazzers/playlist.m3u8
+https://ortepe.xyz:52907/tv/brazzers/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="ext" tvg-name="HUSTLER" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/hustler-hd-official-logo.png" group-title="New group",HUSTLER
-https://ortepe.xyz:52907/tv/hustlerhd/playlist.m3u8
-
+https://ortepe.xyz:52907/tv/hustlerhd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="PENTHOUSE PASSION" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2024/02/penthousepassion.png" group-title="New group",PENTHOUSE PASSION
 https://ortepe.xyz:52907/tv/penthousepassion/playlist.m3u8
