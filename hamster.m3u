@@ -1,21 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="New group",video01
-https://video-gcr.xhcdn.com/bb8cc39a2be5e7ff51d3a2ad3ecc771b/121/1730530800/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:,1920x1080:1080p:,3840x2160:2160p:/023/451/489/720p.av1.mp4.m3u8?start=30
-#EXTINF:-1 tvg-id="" tvg-name="MrPussyLicking" tvg-logo="" group-title="New group",follada de culo en playa
-https://video-nss.xhcdn.com/DVYp_SO02oRIFfKVJMJj4Q==,1730530800/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:,1920x1080:1080p:,3840x2160:2160p:/023/599/815/720p.av1.mp4.m3u8?start=30
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="New group",video03
-https://video-nss.xhcdn.com/yaCAJ2pUXUectnMe0UWarg==,1730530800/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:,1920x1080:1080p:,3840x2160:2160p:/023/301/729/720p.av1.mp4.m3u8?start=30
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="New group",video04
-https://video-nss.xhcdn.com/xnPM-HMCfAcNRk6uEihuvg==,1730530800/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:,1920x1080:1080p:/024/854/556/720p.av1.mp4.m3u8?start=30
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="New group",video05
-https://video-cf.xhcdn.com/8O%2BqVPgM%2BJKoWWeIcsS6KcG5zOtqGwJR6SdaEx%2BR1EA%3D/121/1730530800/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:,1920x1080:1080p:,3840x2160:2160p:/025/013/708/720p.av1.mp4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="New group",video06
-https://video-cf.xhcdn.com/b3vlTJVAE5IAORKckPEF2mqF5XoTktPEHtf8CSjjsCM%3D/104/1730534400/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:,1920x1080:1080p:/024/609/252/1080p.av1.mp4.m3u8?start=30
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="New group",video07
-https://video-cf.xhcdn.com/mks9Ee%2BGAVTcvsb0J1eTvAzUszKHFPyKZmyN3n1vCMk%3D/104/1730534400/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:,1920x1080:1080p:/024/758/486/1080p.av1.mp4.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="VENUS" tvg-logo="https://raw.githubusercontent.com/dj435/tvm3u/refs/heads/main/venus.jpg" group-title="tv free",VENUS
-http://168.181.122.234:8000/play/a027/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="" group-title="tv free",RED LIGHT
-https://w2.btstream.xyz:12821/tv/redlight/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDI0IDEwOjU4OjUyIFBNJmhhc2hfdmFsdWU9NDlxSmthTFc1SnpIeVBIZmxETWY1QT09JnZhbGlkbWludXRlcz02MA==
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="" group-title="tv free",VIVIDRED
-https://w2.btstream.xyz:12821/tv/vivid/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDI0IDExOjA1OjMyIFBNJmhhc2hfdmFsdWU9QUtnckRkNktxZVN2SkxPa3dzM2ZEQT09JnZhbGlkbWludXRlcz02MA==
+#EXTINF:-1 tvg-id="ext" tvg-name="BRAZZERS" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/brazzers-tv-official-logo.png" group-title="New group",BRAZZERS
+https://ortepe.xyz:52907/tv/brazzers/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ext" tvg-name="HUSTLER" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/hustler-hd-official-logo.png" group-title="New group",HUSTLER
+https://ortepe.xyz:52907/tv/hustlerhd/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ext" tvg-name="PENTHOUSE PASSION" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2024/02/penthousepassion.png" group-title="New group",PENTHOUSE PASSION
+https://ortepe.xyz:52907/tv/penthousepassion/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ext" tvg-name="SUPERONE" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/SuperOne-TV.png" group-title="New group",SUPERONE
+https://ortepe.xyz:52907/tv/superone/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ext" tvg-name="VIVID" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/vivid-tv-logo.png" group-title="New group",VIVID
+https://ortepe.xyz:52907/tv/vivid/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ext" tvg-name="PLAYBOY TV" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/playboy-tv-logo.png" group-title="New group",PLAYBOY TV
+https://ortepe.xyz:52907/tv/playboy/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ext" tvg-name="VENUS" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/Venus-tv-logo.png" group-title="New group",VENUS
+https://ortepe.xyz:52907/tv/venus/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ext" tvg-name="PRIVATE HD" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/private-tv-logo.jpg" group-title="New group",PRIVATE HD
+https://ortepe.xyz:52907/tv/private/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="PENTHOUSE REALITY" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2024/07/penthouse-reality-tv-logo-300x185-1.png" group-title="New group",PENTHOUSE REALITY
+https://ortepe.xyz:52907/tv/penthousereality/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PENTHOUSE GOLD" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/penthouse-hd-tv.png" group-title="New group",PENTHOUSE GOLD
+https://ortepe.xyz:52907/tv/penthouse/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="EVIL ANGEL" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/evil-angel-tv-logo.png" group-title="New group",EVIL ANGEL
+https://ortepe.xyz:52907/tv/evilangel/playlist.m3u8
+
+
